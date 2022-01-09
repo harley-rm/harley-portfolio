@@ -38,3 +38,5 @@ tags
 .history
 .ionide
 
+### web dev ignores ###
+node_modules/
